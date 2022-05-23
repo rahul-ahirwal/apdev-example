@@ -1,0 +1,18 @@
+http:
+  port: "8081"
+  
+salesforce:
+  username: rahul.r.ahirwal@apisero.com
+  password: LGMagnah502@
+  securitytoken: bV3VOM35BtxEOz3iUSfm39SI
+  
+file:
+  accountsDir: "C:/Training/APDevFundamentals4.4_studentFiles_SP_05oct2021/resources"
+  
+db:
+  host: "mudb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
+  
